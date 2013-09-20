@@ -19,3 +19,14 @@ http://forum.arduino.cc/index.php/topic,39896.0.html
 http://forum.processing.org/topic/log-data-on-a-csv-file-is-it-possible
 
 https://github.com/h3labs/processing-gpx
+
+Power Sequences:
+
+Recharge Battery 1 - Close SW1
+Recharge Battery 2 - Close SW2
+Recharge Battery 3 - Close SW4
+
+===Warning, make sure that all battery switches are to the open (off) position before power up===
+
+Master and Avionics Switch on Close SW6 & SW3
+Master and Avionics Switch off Open SW6 & SW3
