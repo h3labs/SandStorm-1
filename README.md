@@ -26,7 +26,8 @@ Recharge Battery 1 - Close SW1
 Recharge Battery 2 - Close SW2
 Recharge Battery 3 - Close SW4
 
-===Warning, make sure that all battery switches are to the open (off) position before power up===
+Warning, make sure that all battery switches are to the open (off) position before power up.
+===========
 
 Master and Avionics Switch on Close SW6 & SW3
 Master and Avionics Switch off Open SW6 & SW3
