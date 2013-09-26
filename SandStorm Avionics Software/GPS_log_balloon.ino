@@ -2,10 +2,9 @@
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 
-/*
-   This sample code demonstrates just about every built-in operation of TinyGPS++ (TinyGPSPlus).
-   It requires the use of SoftwareSerial, and assumes that you have a
-   4800-baud serial GPS device hooked up on pins 4(rx) and 3(tx).
+/*Declaration of variables for TX, RX pins and GPS Baudrate.
+
+Make sure that the GPSBaud is equal to the Baudrate of the GPS used.
 */
 static const int RXPin = 6, TXPin = 3;
 static const int GPSBaud = 4800;
